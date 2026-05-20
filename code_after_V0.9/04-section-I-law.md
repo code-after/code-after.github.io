@@ -41,7 +41,7 @@ Big Law and the Big Four are treated as a functional class because they perform 
 
 
 
-## I. Law As The Language Of Power
+## Section I. Law As The Language Of Power
 ### The First Function: Naming What Exists
 Governance is, at its core, the power to classify — to render a fluid and indeterminate reality into the fixed categories of a legal order. Before a State can regulate, tax, or prohibit, it must first name what exists. Legal classification performs this foundational act: it stabilises meaning, assigns identities, and transforms unstructured activity into objects the State can recognise and act upon.
 
