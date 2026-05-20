@@ -15,14 +15,14 @@ title: Home Page
 
 
 ---
-## [CODE AFTER - Section.II — Accounting as the Language of Measurement](code_after_V0.9/05-section-II-accounting.md)
+## [CODE AFTER - Section.II: Accounting as the Language of Measurement](code_after_V0.9/05-section-II-accounting.md)
 
 **Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
 
 *Uploaded on May 20, 2026*
 
 ---
-## [CODE AFTER - Section.I — Law as the Language of Power](code_after_V0.9/04-section-I-law.md)
+## [CODE AFTER - Section.I: Law as the Language of Power](code_after_V0.9/04-section-I-law.md)
 
 **Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
 
