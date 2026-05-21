@@ -13,9 +13,14 @@ title: Home Page
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company)
 [![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=newsstack)](https://codeafter.substack.com)
 
-
 ---
-## [CODE AFTER - Part III：The Architecture of the Global AI Stack](code_after_V0.9/06-part-III.md)
+## [CODE AFTER - Part IV: The Governance Engine](code_after_V0.9/07-part-IV.md)
+
+**Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
+
+*Uploaded on May 21, 2026*
+---
+## [CODE AFTER - Part III: The Architecture of the Global AI Stack](code_after_V0.9/06-part-III.md)
 
 **Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
 
