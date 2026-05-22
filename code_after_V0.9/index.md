@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "V0.9"
 permalink: /
 ---
 
