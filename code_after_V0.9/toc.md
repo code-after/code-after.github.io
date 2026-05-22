@@ -12,7 +12,7 @@ permalink: /toc/
 
 ### Why Sovereignty No Longer Compiles: Governance after AI
 
-#### [Chapter 1 — The World States Cannot See](/chapter-1/)
+#### [Chapter 1 — The World States Cannot See](02-chapter-1.md)
 
 - I. The Illusion of Control
 - II. The Three Dimensions of the Visibility Gap
@@ -31,7 +31,7 @@ permalink: /toc/
 - V. Who Does See — The Visibility Monopoly
 - VI. The Road Ahead — What the Visibility Monopoly Makes Possible
 
-#### [Chapter 2 — The Rule-Execution Gap](/chapter-2/)
+#### [Chapter 2 — The Rule-Execution Gap](03-chapter-2.md)
 
 ##### Why Governance Fails at Implementation, Not Legislation
 
@@ -67,7 +67,7 @@ permalink: /toc/
 
 ### The Dual Languages of Governance
 
-#### [Section I — Law as the Language of Power](/law/)
+#### [Section I — Law as the Language of Power](04-section-I-law.md)
 
 - The First Function: Naming What Exists
 - The Industrial Logic versus the AI Universe
@@ -80,7 +80,7 @@ permalink: /toc/
   - E. The Adaptive Constitution: When Private Law Outpaces Public Law
   - F. The Constitutional Consequence
 
-#### [Section II — Accounting as the Language of Measurement](/accounting/)
+#### [Section II — Accounting as the Language of Measurement](05-section-II-accounting.md)
 
 - The Industrial Logic and the AI Mismatch
 - The Rise of the Value Intermediaries
@@ -94,7 +94,7 @@ permalink: /toc/
 
 ---
 
-## [Part III — The Architecture of the Global AI Stack](/part-3/)
+## [Part III — The Architecture of the Global AI Stack](06-part-III.md)
 
 - I. From Architecture to Implementation
 - II. The AI Governance Machine
@@ -106,7 +106,7 @@ permalink: /toc/
 
 ---
 
-## [Part IV — The Governance Engine](/part-4/)
+## [Part IV — The Governance Engine](07-part-IV.md)
 
 ### Design, Propagation, and the Incorporation Heuristic
 
@@ -137,7 +137,7 @@ permalink: /toc/
 
 ---
 
-## [Part V — The Material Constitution of the AI Era](/part-5/)
+## [Part V — The Material Constitution of the AI Era](08-part-V.md)
 
 ### Compute, Capacity, and the Constitutional Limits of Governance
 
