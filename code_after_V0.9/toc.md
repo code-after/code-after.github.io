@@ -167,5 +167,5 @@ permalink: /toc/
 
 ---
 
-## [Glossary](/glossary/)
+## [Glossary](09-glossary.md)
 
