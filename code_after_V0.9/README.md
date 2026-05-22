@@ -77,7 +77,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 - V. Who Does See — The Visibility Monopoly
 - VI. The Road Ahead — What the Visibility Monopoly Makes Possible
 
-#### Chapter 2 — The Rule-Execution Gap
+#### [Chapter 2 — The Rule-Execution Gap](03-chapter-2.md)
 
 ##### Why Governance Fails at Implementation, Not Legislation
 
@@ -113,7 +113,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ### The Dual Languages of Governance
 
-#### Section I — Law as the Language of Power
+#### [Section I — Law as the Language of Power](04-section-I-law.md)
 
 - The First Function: Naming What Exists
 - The Industrial Logic versus the AI Universe
@@ -126,7 +126,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
   - E. The Adaptive Constitution: When Private Law Outpaces Public Law
   - F. The Constitutional Consequence
 
-#### Section II — Accounting as the Language of Measurement
+#### [Section II — Accounting as the Language of Measurement](05-section-II-accounting.md)
 
 - The Industrial Logic and the AI Mismatch
 - The Rise of the Value Intermediaries
@@ -140,7 +140,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ---
 
-## Part III — The Architecture of the Global AI Stack
+## [Part III — The Architecture of the Global AI Stack](06-part-III.md)
 
 - I. From Architecture to Implementation
 - II. The AI Governance Machine
@@ -152,7 +152,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ---
 
-## Part IV — The Governance Engine
+## [Part IV — The Governance Engine](07-part-IV.md)
 
 ### Design, Propagation, and the Incorporation Heuristic
 
@@ -183,7 +183,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ---
 
-## Part V — The Material Constitution of the AI Era
+## [Part V — The Material Constitution of the AI Era](08-part-V.md)
 
 ### Compute, Capacity, and the Constitutional Limits of Governance
 
