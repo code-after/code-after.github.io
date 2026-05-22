@@ -6,4 +6,4 @@ header_pages:
   - index.md
   - papers/Code_After_Series_Overview.md      # 显示为 "Overview"
   - FAQ.md      # 显示为 "FAQ"
-  - code_after_V0.9/index.md   # 显示为 "Projects"
+  - code_after_V0.9/v0.9.md   # 显示为 "Projects"
