@@ -1,3 +1,7 @@
+---
+layout: default
+title: Contact
+---
 ## Connect with Code After
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company) 
