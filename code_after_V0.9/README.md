@@ -58,7 +58,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ### Why Sovereignty No Longer Compiles: Governance after AI
 
-#### Chapter 1 — The World States Cannot See
+#### [Chapter 1 — The World States Cannot See](02-chapter-1.md)
 
 - I. The Illusion of Control
 - II. The Three Dimensions of the Visibility Gap
