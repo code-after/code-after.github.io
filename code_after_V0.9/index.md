@@ -28,18 +28,18 @@ The programme also develops a multilingual framework to enable meaningful AI deb
 
 | Part | Title | Links |
 |:---|:---|:---|
-| Front Matter | Cover, Copyright, Abstract, Suggested Citation | [Read](/front-matter/) |
-| Preface | Why This Book Exists | [Read](/preface/) |
-| Part I, Ch. 1 | The World States Cannot See | [Read](/chapter-1/) |
-| Part I, Ch. 2 | The Rule-Execution Gap | [Read](/chapter-2/) |
-| Part II, Sec. I | Law as the Language of Power | [Read](/law/) |
-| Part II, Sec. II | Accounting as the Language of Measurement | [Read](/accounting/) |
-| Part III | The Architecture of the Global AI Stack | [Read](/part-3/) |
-| Part IV | The Governance Engine | [Read](/part-4/) |
-| Part V | The Material Constitution of the AI Era | [Read](/part-5/) |
-| Glossary | Key Terms and Definitions | [Read](/glossary/) |
+| Front Matter | Cover, Copyright, Abstract, Suggested Citation | [Read](00-front-matter.md) |
+| Preface | Why This Book Exists | [Read](01-preface.md) |
+| Part I, Ch. 1 | The World States Cannot See | [Read](02-chapter-1.md) |
+| Part I, Ch. 2 | The Rule-Execution Gap | [Read](03-chapter-2.md) |
+| Part II, Sec. I | Law as the Language of Power | [Read](04-section-I-law.md) |
+| Part II, Sec. II | Accounting as the Language of Measurement | [Read](05-section-II-accounting.md) |
+| Part III | The Architecture of the Global AI Stack | [Read](06-part-III.md) |
+| Part IV | The Governance Engine | [Read](07-part-IV.md) |
+| Part V | The Material Constitution of the AI Era | [Read](08-part-V.md) |
+| Glossary | Key Terms and Definitions | [Read](09-glossary.md) |
 
-[View Full Table of Contents →](/toc/)
+[View Full Table of Contents →](toc.md)
 
 ---
 
@@ -52,20 +52,9 @@ Artificial Intelligence (v0.9). Zenodo. https://doi.org/10.5281/zenodo.19537473
 
 ---
 
-## Currently Available Languages
-
-| Language | Edition | DOI |
-|:---|:---|:---|
-| 🇬🇧 English | Original | [10.5281/zenodo.19910082](https://doi.org/10.5281/zenodo.19910082) |
-| 🇨🇳 中文 | Chinese | [10.5281/zenodo.19941099](https://doi.org/10.5281/zenodo.19941099) |
-| 🇫🇷 Français | French | [10.5281/zenodo.20116790](https://doi.org/10.5281/zenodo.20116790) |
-| 🇧🇷 Português (Brasil) | Brazilian Portuguese | [10.5281/zenodo.20117200](https://doi.org/10.5281/zenodo.20117200) |
-
----
-
 ## Quick Links
 
-[GitHub](https://github.com/code-after) · [LinkedIn](https://www.linkedin.com/company/codeafter-ai) · [Substack](https://codeafter.substack.com) · [FAQ](/FAQ.html) · [License](/License.md)
+[GitHub](https://github.com/code-after) · [LinkedIn](https://www.linkedin.com/company/codeafter-ai) · [Substack](https://codeafter.substack.com) · [License](/License.md)
 
 ---
 
