@@ -38,7 +38,7 @@ Code After is a research programme examining how artificial intelligence reshape
 ### Table of Contents
 #### Part I — The Structural Diagnosis
 ##### Why Sovereignty No Longer Compiles: Governance after AI
-#### [Chapter 1 — The World States Cannot See](code_aftrer_V0.9/02-chapter-1.md)
+#### [Chapter 1 — The World States Cannot See](code_after_V0.9/02-chapter-1.md)
 - I. The Illusion of Control
 - II. The Three Dimensions of the Visibility Gap
   - A. Technical Opacity — The Black Box Problem
@@ -56,7 +56,7 @@ Code After is a research programme examining how artificial intelligence reshape
 - V. Who Does See — The Visibility Monopoly
 - VI. The Road Ahead — What the Visibility Monopoly Makes Possible
 
-#### [Chapter 2 — The Rule-Execution Gap](code_aftrer_V0.9/03-chapter-2.md)
+#### [Chapter 2 — The Rule-Execution Gap](code_after_V0.9/03-chapter-2.md)
 
 ##### Why Governance Fails at Implementation, Not Legislation
 
@@ -92,7 +92,7 @@ Code After is a research programme examining how artificial intelligence reshape
 
 ##### The Dual Languages of Governance
 
-##### [Section I — Law as the Language of Power](code_aftrer_V0.9/04-section-I-law.md)
+##### [Section I — Law as the Language of Power](code_after_V0.9/04-section-I-law.md)
 - The First Function: Naming What Exists
 - The Industrial Logic versus the AI Universe
 - The Categorical Gap in Practice
@@ -104,7 +104,7 @@ Code After is a research programme examining how artificial intelligence reshape
   - E. The Adaptive Constitution: When Private Law Outpaces Public Law
   - F. The Constitutional Consequence
 
-##### [Section II — Accounting as the Language of Measurement](code_aftrer_V0.9/05-section-II-accounting.md)
+##### [Section II — Accounting as the Language of Measurement](code_after_V0.9/05-section-II-accounting.md)
 - The Industrial Logic and the AI Mismatch
 - The Rise of the Value Intermediaries
 - A. The Mechanics of Recognition
@@ -117,7 +117,7 @@ Code After is a research programme examining how artificial intelligence reshape
 
 ---
 
-#### [Part III — The Architecture of the Global AI Stack](code_aftrer_V0.9/06-part-III.md)
+#### [Part III — The Architecture of the Global AI Stack](code_after_V0.9/06-part-III.md)
 
 - I. From Architecture to Implementation
 - II. The AI Governance Machine
@@ -129,7 +129,7 @@ Code After is a research programme examining how artificial intelligence reshape
 
 ---
 
-#### [Part IV — The Governance Engine](code_aftrer_V0.9/07-part-IV.md)
+#### [Part IV — The Governance Engine](code_after_V0.9/07-part-IV.md)
 
 #####  Design, Propagation, and the Incorporation Heuristic
 
@@ -160,7 +160,7 @@ Code After is a research programme examining how artificial intelligence reshape
 
 ---
 
-#### [Part V — The Material Constitution of the AI Era](code_aftrer_V0.9/08-part-V.md)
+#### [Part V — The Material Constitution of the AI Era](code_after_V0.9/08-part-V.md)
 
 ##### Compute, Capacity, and the Constitutional Limits of Governance
 
