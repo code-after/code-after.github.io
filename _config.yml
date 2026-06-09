@@ -1,9 +1,0 @@
-theme: minima
-title: Code After Series
-description: Code After - A global, multilingual research programme on AI’s impact on societies and institutions. This organization provides public metadata, multilingual editions, citations, documentation, and versioned releases for the Code After AI Series and its future volumes.
-
-header_pages:
-  - index.md
-  - papers/Code_After_Series_Overview.md      # 显示为 "Overview"
-  - FAQ.md      # 显示为 "FAQ"
-  - connect.md      # 显示为 "Contact"
