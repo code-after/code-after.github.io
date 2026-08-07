@@ -30,7 +30,7 @@ Different questions. Different evidence. Different institutions.
 
 The upstream tools are being built now. The downstream ones already exist, scattered across product safety, sector regulation, liability, insurance, contract law, and professional responsibility. The problem is not that nothing is there. It is that nothing joins those pieces into a continuous chain running from the training run to the consequential act.
 
-![[images/the_split.jpg]]
+![images/the_split.jpg](../images/the_split.jpg)
 
 **Energy does not explain itself**
 
@@ -100,7 +100,7 @@ But attribution and control are different problems, and only one of them has an 
 
 Physical AI returns part of artificial intelligence to the registrable world.
 
-![[images/the _crossing.jpg]]
+![images/the _crossing.jpg](../images/the_crossing.jpg)
 ## The window
 
 So the window is not the period before AI becomes ungovernable.
@@ -123,7 +123,7 @@ So the question is not whether operational compute stays visible through 2040. I
 
 The substrate does not vanish. It stops being sufficient on its own.
 
-![[images/the_two_clocks.png]]
+![images/the_two_clocks.png](../images/the_two_clocks.png)
 
 ## September
 

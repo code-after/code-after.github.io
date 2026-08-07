@@ -35,7 +35,7 @@ Two systems, financed by different instruments, arriving at the same concentrati
 
 And the drift compounds. More high-end work means more rewards; more rewards mean more capital; more capital buys more material capacity — chips, plants, power, data centers; more capacity produces more capability; more capability chases more tails; and the tails it catches send their value back to the start of the loop. This is the concentration flywheel, and it is the engine of the whole argument. Nothing in it requires malice or strategy. It only requires the loop to run faster than anything outside it, and it does.
 
-![](images/the_con.png)
+![](../images/the_con.png)
 
 Concentration of work across borders is a trade story, and here the governance shelf is nearly bare. Trade policy has centuries of instruments for goods: tariffs, quotas, rules of origin, dispute panels. It has almost nothing for the migration of high-value work toward the full-stack cores. A tariff can hold a manufactured object at the border. No instrument holds a task, and the tasks are what is moving now. The trade wars on the front page are fought over the old flows while the new one runs ungoverned beneath them. This is the under-governed front, and the formal papers in this series take it up where this essay leaves it.
 
@@ -45,7 +45,7 @@ Hold both truths, because the story is two-sided and the doom version misses hal
 
 The choice is not whether to participate — the rising floor settles that. The choice is whether to claim a slice of the value layer deliberately, while the reordering is young and positions are still open, or to drift on the rising floor and inherit whatever the flywheel leaves behind. Deliberate construction or default acceptance. The fork is the same one this project has named before, and the works question is where it cuts closest to home, because everyone stands somewhere in the two-by-two.
 
-![](images/the_floor.png)
+![](../images/the_floor.png)
 
 This essay has carried five claims to the edge of formality and left them there on purpose. The language a model thinks in, and what it costs a society to think through someone else’s — the Sovereign Language Stack papers take that up. The gaps between what institutions can see, execute, categorize, and measure — the gap papers. The layer that masks divergence while it widens — the Translation Layer paper, the center of the series. The arithmetic of what makes participation real rather than nominal — the Incorporation Heuristic. And the question of where, on a map splitting into two stacks, the seam can still be worked — that paper has a candidate, and it is a harbor.
 

@@ -28,6 +28,6 @@ Stand back from the whole sequence and one shape holds across all of it. The bea
 
 Call this the Pre-Code condition: the long span in which the rule and the machine that ran it could not come apart, and computation, for that reason, could not outrun the people and institutions that governed it. No one drafted rules for the governance of computation, because computation could not get ahead of anyone. The binding was the silent precondition of governability, and it held so quietly that no one thought to name it until it was gone. It is the same condition the companion essay describes for language, seen from the other side: for most of history the software of civilization ran on human beings, and the machines only helped.
 
-![](images/the_long_coupling.jpg)
+![](../images/the_long_coupling.jpg)
 
 One move had not been made. Across every page of this history, nobody had proven that a single machine, given the right instructions, could become any machine at all. The proof, when it came, would not come from an engineer building a better engine. It would come from a mathematician asking a question that had nothing to do with machines, and the answer would take the binding apart for good. What came after is a different condition entirely.

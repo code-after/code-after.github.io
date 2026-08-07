@@ -28,7 +28,7 @@ Electricity dissolved that constraint. Power could travel by wire and be allocat
 
 The delay was not a failure of the technology. It was the time it took to imagine — and then to finance, build, and staff — a different factory. The decisive idea was organizational, not electrical: unit drive, a motor on every machine. Unit drive removed the constraint the whole factory had been built around. Machines could be arranged by the logic of production instead of the geometry of the shaft. Factories went single-story. Materials flowed in sequence. Overhead cleared for cranes and conveyors. By 1920, electricity’s share of factory drive had passed half, and in the 1920s American manufacturing productivity surged — roughly four decades after the dynamo, and only after the redesign.
 
-![](images/the_same.jpg)
+![](../images/the_same.jpg)
 
 The emblem of the new architecture was Highland Park. Ford Motor Company was founded in 1903, a young firm in a young industry; the Highland Park plant opened in 1910 as a purpose-built structure with no inherited layout to defend; the moving assembly line began running there in 1913. The line was not one immaculate insight — Ford’s engineers experimented and combined — but its most famous borrowing came from outside the industry entirely: the Chicago meatpackers, whose overhead-trolley disassembly lines had moved carcasses past stationary workers for decades. William Klann, who ran Ford’s engine assembly, saw the line at Swift’s slaughterhouse and brought back the observation that if a line could take an animal apart, a line could put a car together. The lesson sits one level below the electricity story and belongs to this series: the redesign has ancestors too. The organizational form that unlocks a general-purpose technology is usually imported from somewhere nobody in the industry was looking — which means the form that unlocks AI likely exists already, running quietly in some industry that is not yours.
 
@@ -46,7 +46,7 @@ This is why the pilot results disappoint, and the pilots deserve an explanation 
 
 The bridge between the history and the present crosses in three sentences. The steam-era factory was designed around the transmission of mechanical power. The modern organization is designed around the scarcity of human cognition. Electricity changed the economics of energy; AI changes the economics of cognition — which is why every organizational assumption is now under the same pressure the line shaft once was.
 
-![](images/the_arc.jpg)
+![](../images/the_arc.jpg)
 
 ## Human-Centric DNA
 
@@ -72,7 +72,7 @@ Where to look instead — and here the essay makes its hardest claim at full str
 
 The tell is not enterprise adoption surveys, which count motors bolted to shafts. Watch revenue per employee among AI-native firms, read alongside the operating signals that a redesign has actually happened: cycle time from request to decision, share of work completed without handoffs, span of control held without quality loss, time to bring a new person to full effectiveness. And the claim is stated to be tested. If, by 2031, firms that kept conventional structures while deploying general-purpose AI tools match the productivity of deliberately AI-native organizations, this essay is wrong. If AI-native leanness proves to be an artifact — hidden contractor labor, subsidized compute, deferred costs, temporary scarcity rents — rather than redesigned production, it is wrong in a different way, and this page will say so
 
-![](images/how_the_gains.jpg)
+![](../images/how_the_gains.jpg)
 
 ## The factory that stopped
 

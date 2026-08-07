@@ -48,7 +48,7 @@ The rungs are distinguished by what an outsider must check to establish complian
   
 One thing the ladder never does is reach the ground. A meter is also a representation. It can be misconfigured, selectively installed, spoofed, or unplugged. The ladder does not descend from representation into unmediated reality. Institutions never arrive there. It descends toward traces an outsider can reproduce with steadily less dependence on the governed party’s own account. That is the whole of the difference, and it is enough.
 
-![[images/the_ladder_ranks.jpg]]
+![images/the_ladder_ranks.jpg](../images/the_ladder_ranks.jpg)
 
 The ladder compares objects, not actors. A firm binds itself in a day; two rival states take a decade. That difference belongs to the actor question, which the method asks separately. Hold the actor and the scope fixed, and the ladder still sorts. The claim is falsified by a rule that binds low, costs little to adopt, and holds under pressure. I have not found one.  
   
@@ -135,7 +135,7 @@ But the comparison requires a correction, and it cuts against the neat version o
   
 So Plan A does not escape the representation problem. It divides it. Enforcement moves down the ladder, where it can be observed by parties with no stake in the answer. Boundary-setting stays up the ladder, in a world of evidence, judgment, and contest. The treaty regime therefore needs the same missing profession the firm-level policy needs, and needs it binationally.
 
-![[images/plan_a.png]]
+![images/plan_a.png](../images/plan_a.png)
 
 That is not a flaw in the plan. It is the condition every serious regime meets, and it generalizes the mechanism past the case that produced it. Descending the ladder relocates the representation problem. It never dissolves it.  
  
