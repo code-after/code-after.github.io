@@ -24,7 +24,7 @@ English had chaa before it had tea. The Portuguese-derived form appears in Engli
 
 Four centuries later you can still hear which network prevailed. That is what path dependence sounds like.
 
-**The map breaks on Portugal**
+## The map breaks on Portugal
 
 The tourist version of this history is beautifully simple. Tea traveled overland and became cha. Tea traveled by sea and became te.
 
@@ -40,7 +40,7 @@ And the network outlived nearly everything around it. Trading companies dissolve
 
 The word stayed.
 
-**We are watching the wrong layer**
+## We are watching the wrong layer
 
 We are making a comparable set of choices with artificial intelligence, and we still describe them through the product. Who has the best model. America or China. Closed or open. One laboratory or another.
 
@@ -63,7 +63,7 @@ Read those two things together. The package is the instrument. The adoption of s
 
 That is a route, described by the people building it.
 
-**What the community built**
+## What the community built
 
 China’s route is developing differently, and the difference should not be caricatured as closed America against open China. American companies release open weights. Chinese companies operate proprietary services. Both ecosystems contain both. Of 178 Chinese releases above 20 billion parameters in 2026, Hugging Face counts 59 percent carrying Apache licensing.
 
@@ -85,7 +85,7 @@ The same report supplies a second measure. Qwen models generate 39.6 million loc
 
 Repository count does not explain adoption. Something else did.
 
-**The layer growing faster**
+## The layer growing faster
 
 Now look one layer outward.
 
@@ -100,7 +100,7 @@ The window still shows the shape. The layers that determine where a model can ph
 
 The product is moving quickly. The interface around it is moving faster.
 
-**Crossing does not erase the route**
+## Crossing does not erase the route
 
 Traffic between the two ecosystems is already heavy. Chinese models run on American hardware. Chinese developers use American clouds. American laboratories release open weights, and some large American open-model releases this year build on Chinese work, though the same report names substantial original American releases alongside them. Meanwhile Chinese open models are increasingly optimized for domestic chips, which is the same competition running in reverse.
 
@@ -110,7 +110,7 @@ Tea did the same thing. It did not remain in Portuguese or Dutch hands. Merchant
 
 The residue survived anyway.
 
-**What routes leave behind**
+## What routes leave behind
 
 It is more useful to think in route archetypes than in national systems.
 
@@ -124,7 +124,7 @@ The muscles are the point, because models get replaced faster than organizations
 
 The interface survives the product.
 
-**How a technology acquires geography**
+## How a technology acquires geography
 
 We remember diffusion as the movement of an invention. Electricity spread. Railways spread. Telecommunications spread. The internet spread.
 
@@ -134,7 +134,7 @@ Tea left something smaller than any of them. A word.
 
 That is precisely why the word is useful evidence. No regulator required Portugal to preserve chá. No standards body defended it. No company retained any interest in how Portuguese speakers pronounced it. The route became habit, habit became language, and the language outlasted the route.
 
-**The test**
+## The test
 
 Most countries are answering a smaller question than alignment with Washington or Beijing. It is operational, it is being answered this year, and it is mostly being answered without anyone noticing that a durable choice is being made.
 
