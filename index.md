@@ -64,6 +64,18 @@ title: Home Page
 
 ---
 
+## [AI Has Ancestors Series](AI%20Has%20Ancestors%20Series/README.md)
+
+**Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
+
+The public lead-in to **Code After Language**, the first paper in the Code After Series: AI is not the first technology to think — it is the fifth member of a family that has reshaped how humanity stores, transmits, and performs thought for five thousand years. The series tells that family's story — writing, the alphabet, the printing press, the digital wire — and asks what the newest member's arrival means for every language now living in its shadow.
+
+Part of [Code After AI Series](https://zenodo.org/communities/code-after)
+
+*Reading order: [Part One — The Pre-Code World](AI%20Has%20Ancestors%20Series/01-Part%20One%20%E2%80%94%20The%20Pre-Code%20World.md) → [Part Two — The Post-Code Break](AI%20Has%20Ancestors%20Series/02-Part%20Two%20%E2%80%94%20The%20Post-Code%20Break.md) → [Part Three — The Substance](AI%20Has%20Ancestors%20Series/03-Part%20Three%20%E2%80%94%20The%20Substance.md)*
+
+---
+
 ## [Code After Series Announcement](papers/Code_After_Series_Announcement.md)
 
 **Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
