@@ -53,3 +53,24 @@ preferred-citation:
       given-names: Richard
   doi: 10.5281/zenodo.19537473
   url: "https://codeafter.ai"
+
+references:
+  - type: creative-work
+    title: "AI Has Ancestors Series"
+    authors:
+      - family-names: Yan
+        given-names: Richard
+    year: 2026
+    notes: >
+      Public lead-in to Code After Language (Paper 1 of the Code After Series).
+      Three parts — The Pre-Code World, The Post-Code Break, and The Substance —
+      with companion essays. Available in the Code After repository.
+    url: "https://github.com/code-after/code-after.github.io/tree/main/AI%20Has%20Ancestors%20Series"
+  - type: creative-work
+    title: "Code After Language"
+    authors:
+      - family-names: Yan
+        given-names: Richard
+    year: 2026
+    notes: "Paper 1 of the Code After Series. Scheduled for September 2026 release."
+    url: "https://codeafter.ai"

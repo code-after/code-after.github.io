@@ -61,6 +61,10 @@ The framework's diagnostic tool for predicting which governance treatments will 
 
 A six-paper research series extending the v0.9 framework into the major institutional domains AI is reshaping: language, law, accounting, evidence, work, and public authority. Open-access publication on Zenodo, bilingual English–Chinese from launch, with additional language editions to follow where genuine collaborators are present. Paper 1 — *Code After Language* — targets release in September 2026.
 
+## What is the AI Has Ancestors series?
+
+The public lead-in to *Code After Language*, the first paper in the Code After Series. It argues that AI is not the first technology to think: it is the fifth member of a family — after writing, the alphabet, the printing press, and the digital wire — that has reshaped how humanity stores, transmits, and performs thought over five thousand years. The series tells that family's story in three parts — *The Pre-Code World*, *The Post-Code Break*, and *The Substance* — and asks what the arrival of a machine that performs thought means for every language now living in its shadow. Companion essays extend the argument into work, technology history, and language itself. Published in the Code After repository and on Substack, in British English throughout.
+
 ## What is the Linguistic Gap?
 
 The structural condition under which a jurisdiction's language is not the language in which AI systems are trained, documented, benchmarked, or governed. It sits upstream of the four gaps of v0.9. A regulator who cannot read a model card in the language of governance cannot audit. A court that cannot examine training documentation in the language of law cannot adjudicate. The Gap cannot be closed by exercising existing authority. It can only be closed by constructing leverage.
